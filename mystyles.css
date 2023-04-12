@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* if updates don't work...
+1. Make sure you linked styles to page
+2. Make sure you linked them correctly and below original styles.
+3. Make sure you spelled everything correctly
+3b. Try !important (before semicolon)
+4. Try refreshing page
+5. Try refreshing without cache (command + click)
+6. Try a different browswer
+7. Come to class and ask a TA
+8. Be satisfied with less style

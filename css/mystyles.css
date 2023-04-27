@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 52pt;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+nav{
+    color: white !important;
+    background-color: gray !important; 
+}
+
+.resume{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 12pt;
+}
+
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color: white;
+    font-size: larger;
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+li:hover{
+    font-size: 105%;
+    text-decoration: underline;
+    background-color: darkblue;
+}
+
+ul:hover{
+    font-size: 105%;
+    text-decoration: underline;
+    background-color: darkblue;
+}
+
+.work{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+/* if updates don't work...
+1. Make sure you linked styles to page
+2. Make sure you linked them correctly and below original styles.
+3. Make sure you spelled everything correctly
+3b. Try !important (before semicolon)
+4. Try refreshing page
+5. Try refreshing without cache (command + click)
+6. Try a different browswer
+7. Come to class and ask a TA
+8. Be satisfied with less style
